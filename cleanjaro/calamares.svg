@@ -1,0 +1,31 @@
+<svg width="1500" height="1219" inkscape:export-filename="/home/sgs/Bilder/Cleanjaro-github/CJ-logoYorper-pink-sgs.png" inkscape:export-xdpi="96" inkscape:export-ydpi="96" inkscape:version="0.92.4 5da689c313, 2019-01-14" sodipodi:docname="calamares.svg" version="1.1" viewBox="0 0 396.87 322.53" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient4080" x1="535.12" x2="535.12" y1="520.36" y2="811.33" gradientTransform="matrix(.93507 0 0 .93507 -390.62 -511.32)" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+   <stop offset="0"/>
+   <stop offset=".8567"/>
+   <stop stop-color="#dedede" offset=".86885"/>
+   <stop stop-color="#e8ebf0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <sodipodi:namedview id="base" bordercolor="#666666" borderlayer="true" borderopacity="1.0" inkscape:current-layer="layer1" inkscape:cx="549.56711" inkscape:cy="280.78334" inkscape:document-units="px" inkscape:pagecheckerboard="true" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:showpageshadow="false" inkscape:window-height="2057" inkscape:window-maximized="0" inkscape:window-width="1887" inkscape:window-x="1930" inkscape:window-y="47" inkscape:zoom="0.49497475" pagecolor="#ffffff" showgrid="false" units="px"/>
+ <g transform="translate(0 25.527)" inkscape:groupmode="layer" inkscape:label="Ebene 1">
+  <ellipse cx="198.44" cy="294.79" rx="98.518" ry="2.1489" fill="#c8cbcf" style="paint-order:stroke fill markers"/>
+  <path d="m159.5 240.74h77.359l13.166 47.775 12.506 1.6364 1.4026 3.6234h-131.03l0.93507-3.3896 12.156-1.5195z" fill="#e8ebf0" inkscape:connector-curvature="0"/>
+  <rect x="5.7316e-6" y="-25.465" width="396.88" height="272.51" ry="9.7253" fill="url(#linearGradient4080)" style="paint-order:stroke fill markers"/>
+  <rect x="14.736" y="-10.593" width="367.01" height="211.52" fill="#333" style="paint-order:stroke fill markers"/>
+  <rect x="5.7316e-6" y="196.5" width="396.87" height="15.024" ry="0" style="paint-order:stroke fill markers"/>
+  <circle cx="198.24" cy="228.78" r="7.7143" style="paint-order:stroke fill markers"/>
+  <circle cx="157.1" cy="93.2" r="74.805" fill="#dedede" style="paint-order:stroke fill markers"/>
+  <circle cx="157.1" cy="93.2" r="29.455" fill="#a7abab" style="paint-order:stroke fill markers"/>
+  <circle cx="157.1" cy="93.2" r="12.507" fill="#333" style="paint-order:stroke fill markers"/>
+  <path d="m157.1 65.264a27.935 27.935 0 0 0-27.935 27.935 27.935 27.935 0 0 0 27.935 27.935 27.935 27.935 0 0 0 27.935-27.935 27.935 27.935 0 0 0-27.935-27.935zm0 15.372a12.563 12.563 0 0 1 12.563 12.563 12.563 12.563 0 0 1-12.563 12.563 12.563 12.563 0 0 1-12.563-12.563 12.563 12.563 0 0 1 12.563-12.563z" fill="#b6baba" style="paint-order:stroke fill markers" inkscape:connector-curvature="0"/>
+  <path d="m155.93 13.953v58.792a20.497 20.497 0 0 1 1.1688-0.04197 20.497 20.497 0 0 1 20.497 20.497 20.497 20.497 0 0 1-20.497 20.497 20.497 20.497 0 0 1-1.1688-0.0584v58.575h158.26v-158.26z" style="paint-order:stroke fill markers" inkscape:connector-curvature="0"/>
+  <g transform="matrix(.87662 0 0 .87662 54.668 -458.01)" fill="#dedede">
+   <g transform="matrix(0 -.76483 .62686 0 84.622 813.57)">
+    <path d="m275.85 178.94h47.995l-0.13438 127.3h-47.995z" fill="#dedede" fill-rule="evenodd" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc"/>
+   </g>
+   <path d="m151.64 690.88h124.95v-36.584h-88.401v-88.413h-36.553z" fill-rule="evenodd" stroke-width=".5814" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccc"/>
+  </g>
+  <path d="m157.33 247.37h81.351l1.987 8.5325h-84.857z" fill="#c8cbcf" style="paint-order:stroke fill markers" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc"/>
+ </g>
+</svg>
